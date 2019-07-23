@@ -1,0 +1,394 @@
+NoteOctave,Note,Instrument,Position
+B4,B,Bass clarinet,0
+E5,E,Bass clarinet,1
+F#5,F#,Bass clarinet,2
+G5,G,Bass clarinet,3
+A5,A,Bass clarinet,4
+B5,B,Bass clarinet,5
+E5,E,Bass clarinet,6
+E5,E,Bass clarinet,7
+C6,C,Bass clarinet,8
+B5,B,Bass clarinet,9
+A5,A,Bass clarinet,10
+A5,A,Bass clarinet,11
+D6,D,Bass clarinet,12
+C6,C,Bass clarinet,13
+B5,B,Bass clarinet,14
+B5,B,Bass clarinet,15
+E6,E,Bass clarinet,16
+D6,D,Bass clarinet,17
+C6,C,Bass clarinet,18
+B5,B,Bass clarinet,19
+A5,A,Bass clarinet,20
+B5,B,Bass clarinet,21
+G5,G,Bass clarinet,22
+A5,A,Bass clarinet,23
+B5,B,Bass clarinet,24
+A5,A,Bass clarinet,25
+G5,G,Bass clarinet,26
+F#5,F#,Bass clarinet,27
+E5,E,Bass clarinet,28
+F#5,F#,Bass clarinet,29
+G5,G,Bass clarinet,30
+A5,A,Bass clarinet,31
+B5,B,Bass clarinet,32
+A5,A,Bass clarinet,33
+G5,G,Bass clarinet,34
+F#5,F#,Bass clarinet,35
+G5,G,Bass clarinet,36
+E5,E,Bass clarinet,37
+E5,E,Bass clarinet,38
+E5,E,Bass clarinet,39
+E6,E,Bass clarinet,40
+E6,E,Bass clarinet,41
+E6,E,Bass clarinet,42
+E6,E,Bass clarinet,43
+D6,D,Bass clarinet,44
+D6,D,Bass clarinet,45
+E6,E,Bass clarinet,46
+D6,D,Bass clarinet,47
+C6,C,Bass clarinet,48
+B5,B,Bass clarinet,49
+A5,A,Bass clarinet,50
+D6,D,Bass clarinet,51
+C6,C,Bass clarinet,52
+B5,B,Bass clarinet,53
+B5,B,Bass clarinet,54
+E6,E,Bass clarinet,55
+D6,D,Bass clarinet,56
+C6,C,Bass clarinet,57
+B5,B,Bass clarinet,58
+A5,A,Bass clarinet,59
+B5,B,Bass clarinet,60
+G5,G,Bass clarinet,61
+A5,A,Bass clarinet,62
+B5,B,Bass clarinet,63
+A5,A,Bass clarinet,64
+G5,G,Bass clarinet,65
+F#5,F#,Bass clarinet,66
+E5,E,Bass clarinet,67
+F#5,F#,Bass clarinet,68
+G5,G,Bass clarinet,69
+A5,A,Bass clarinet,70
+B5,B,Bass clarinet,71
+A5,A,Bass clarinet,72
+G5,G,Bass clarinet,73
+F#5,F#,Bass clarinet,74
+G5,G,Bass clarinet,75
+E5,E,Bass clarinet,76
+E5,E,Bass clarinet,77
+E5,E,Bass clarinet,78
+E6,E,Bass clarinet,79
+E6,E,Bass clarinet,80
+E6,E,Bass clarinet,81
+E6,E,Bass clarinet,82
+D6,D,Bass clarinet,83
+D6,D,Bass clarinet,84
+E6,E,Bass clarinet,85
+D6,D,Bass clarinet,86
+C6,C,Bass clarinet,87
+B5,B,Bass clarinet,88
+A5,A,Bass clarinet,89
+D6,D,Bass clarinet,90
+C6,C,Bass clarinet,91
+B5,B,Bass clarinet,92
+B5,B,Bass clarinet,93
+E6,E,Bass clarinet,94
+D6,D,Bass clarinet,95
+C6,C,Bass clarinet,96
+B5,B,Bass clarinet,97
+A5,A,Bass clarinet,98
+B5,B,Bass clarinet,99
+G5,G,Bass clarinet,100
+A5,A,Bass clarinet,101
+B5,B,Bass clarinet,102
+A5,A,Bass clarinet,103
+G5,G,Bass clarinet,104
+F#5,F#,Bass clarinet,105
+E5,E,Bass clarinet,106
+F#5,F#,Bass clarinet,107
+G5,G,Bass clarinet,108
+A5,A,Bass clarinet,109
+B5,B,Bass clarinet,110
+A5,A,Bass clarinet,111
+G5,G,Bass clarinet,112
+F#5,F#,Bass clarinet,113
+G5,G,Bass clarinet,114
+E5,E,Bass clarinet,115
+E3,E,Acoustic Bass,0
+E2,E,Acoustic Bass,1
+E2,E,Acoustic Bass,2
+E2,E,Acoustic Bass,3
+E2,E,Acoustic Bass,4
+E3,E,Acoustic Bass,5
+E3,E,Acoustic Bass,6
+E3,E,Acoustic Bass,7
+E2,E,Acoustic Bass,8
+E3,E,Acoustic Bass,9
+E3,E,Acoustic Bass,10
+E3,E,Acoustic Bass,11
+A2,A,Acoustic Bass,12
+A3,A,Acoustic Bass,13
+D3,D,Acoustic Bass,14
+D2,D,Acoustic Bass,15
+D3,D,Acoustic Bass,16
+D2,D,Acoustic Bass,17
+G2,G,Acoustic Bass,18
+G3,G,Acoustic Bass,19
+C2,C,Acoustic Bass,20
+D2,D,Acoustic Bass,21
+E2,E,Acoustic Bass,22
+E2,E,Acoustic Bass,23
+E-2,E-,Acoustic Bass,24
+E2,E,Acoustic Bass,25
+E2,E,Acoustic Bass,26
+C2,C,Acoustic Bass,27
+B2,B,Acoustic Bass,28
+B2,B,Acoustic Bass,29
+B2,B,Acoustic Bass,30
+B2,B,Acoustic Bass,31
+E3,E,Acoustic Bass,32
+E2,E,Acoustic Bass,33
+E3,E,Acoustic Bass,34
+C3,C,Acoustic Bass,35
+B2,B,Acoustic Bass,36
+B2,B,Acoustic Bass,37
+B2,B,Acoustic Bass,38
+B2,B,Acoustic Bass,39
+E3,E,Acoustic Bass,40
+E2,E,Acoustic Bass,41
+E3,E,Acoustic Bass,42
+D3,D,Acoustic Bass,43
+C3,C,Acoustic Bass,44
+C2,C,Acoustic Bass,45
+C3,C,Acoustic Bass,46
+C3,C,Acoustic Bass,47
+C2,C,Acoustic Bass,48
+D2,D,Acoustic Bass,49
+E2,E,Acoustic Bass,50
+F#2,F#,Acoustic Bass,51
+G2,G,Acoustic Bass,52
+A2,A,Acoustic Bass,53
+B2,B,Acoustic Bass,54
+G2,G,Acoustic Bass,55
+C3,C,Acoustic Bass,56
+B2,B,Acoustic Bass,57
+C3,C,Acoustic Bass,58
+B2,B,Acoustic Bass,59
+A2,A,Acoustic Bass,60
+G2,G,Acoustic Bass,61
+F#2,F#,Acoustic Bass,62
+E2,E,Acoustic Bass,63
+D2,D,Acoustic Bass,64
+D3,D,Acoustic Bass,65
+D3,D,Acoustic Bass,66
+D3,D,Acoustic Bass,67
+G2,G,Acoustic Bass,68
+G2,G,Acoustic Bass,69
+C3,C,Acoustic Bass,70
+B2,B,Acoustic Bass,71
+C3,C,Acoustic Bass,72
+D3,D,Acoustic Bass,73
+E3,E,Acoustic Bass,74
+E2,E,Acoustic Bass,75
+E-2,E-,Acoustic Bass,76
+E2,E,Acoustic Bass,77
+E2,E,Acoustic Bass,78
+C2,C,Acoustic Bass,79
+B2,B,Acoustic Bass,80
+B2,B,Acoustic Bass,81
+B2,B,Acoustic Bass,82
+B2,B,Acoustic Bass,83
+B2,B,Acoustic Bass,84
+B2,B,Acoustic Bass,85
+E2,E,Acoustic Bass,86
+E3,E,Acoustic Bass,87
+E3,E,Acoustic Bass,88
+E3,E,Acoustic Bass,89
+E3,E,Acoustic Bass,90
+C3,C,Acoustic Bass,91
+B2,B,Acoustic Bass,92
+B2,B,Acoustic Bass,93
+B2,B,Acoustic Bass,94
+B2,B,Acoustic Bass,95
+B2,B,Acoustic Bass,96
+B2,B,Acoustic Bass,97
+E3,E,Acoustic Bass,98
+B2,B,Acoustic Bass,99
+E3,E,Acoustic Bass,100
+D3,D,Acoustic Bass,101
+C3,C,Acoustic Bass,102
+C2,C,Acoustic Bass,103
+C3,C,Acoustic Bass,104
+C3,C,Acoustic Bass,105
+C3,C,Acoustic Bass,106
+C3,C,Acoustic Bass,107
+C2,C,Acoustic Bass,108
+D2,D,Acoustic Bass,109
+E2,E,Acoustic Bass,110
+F#2,F#,Acoustic Bass,111
+G2,G,Acoustic Bass,112
+A2,A,Acoustic Bass,113
+B2,B,Acoustic Bass,114
+G2,G,Acoustic Bass,115
+C3,C,Acoustic Bass,116
+B2,B,Acoustic Bass,117
+C3,C,Acoustic Bass,118
+B2,B,Acoustic Bass,119
+A2,A,Acoustic Bass,120
+G2,G,Acoustic Bass,121
+F#2,F#,Acoustic Bass,122
+E2,E,Acoustic Bass,123
+D2,D,Acoustic Bass,124
+D3,D,Acoustic Bass,125
+D3,D,Acoustic Bass,126
+D3,D,Acoustic Bass,127
+G2,G,Acoustic Bass,128
+G2,G,Acoustic Bass,129
+C3,C,Acoustic Bass,130
+B2,B,Acoustic Bass,131
+C3,C,Acoustic Bass,132
+D3,D,Acoustic Bass,133
+E3,E,Acoustic Bass,134
+C3,C,Acoustic Bass,135
+E-3,E-,Acoustic Bass,136
+E3,E,Acoustic Bass,137
+E3,E,Acoustic Bass,138
+C3,C,Acoustic Bass,139
+B2,B,Acoustic Bass,140
+B2,B,Acoustic Bass,141
+B2,B,Acoustic Bass,142
+B2,B,Acoustic Bass,143
+B2,B,Acoustic Bass,144
+B2,B,Acoustic Bass,145
+E2,E,Acoustic Bass,146
+E3,E,Acoustic Bass,147
+E3,E,Acoustic Bass,148
+E3,E,Acoustic Bass,149
+E3,E,Acoustic Bass,150
+C3,C,Acoustic Bass,151
+B2,B,Acoustic Bass,152
+B2,B,Acoustic Bass,153
+B2,B,Acoustic Bass,154
+B2,B,Acoustic Bass,155
+B2,B,Acoustic Bass,156
+B2,B,Acoustic Bass,157
+E2,E,Acoustic Bass,158
+B2,B,Acoustic Bass,159
+E2,E,Acoustic Bass,160
+B3,B,Xylophone,0
+E4,E,Xylophone,1
+F#4,F#,Xylophone,2
+G4,G,Xylophone,3
+A4,A,Xylophone,4
+B4,B,Xylophone,5
+E4,E,Xylophone,6
+E4,E,Xylophone,7
+C5,C,Xylophone,8
+B4,B,Xylophone,9
+A4,A,Xylophone,10
+A4,A,Xylophone,11
+D5,D,Xylophone,12
+C5,C,Xylophone,13
+B4,B,Xylophone,14
+B4,B,Xylophone,15
+E5,E,Xylophone,16
+D5,D,Xylophone,17
+C5,C,Xylophone,18
+B4,B,Xylophone,19
+A4,A,Xylophone,20
+B4,B,Xylophone,21
+G4,G,Xylophone,22
+A4,A,Xylophone,23
+B4,B,Xylophone,24
+A4,A,Xylophone,25
+G4,G,Xylophone,26
+F#4,F#,Xylophone,27
+E4,E,Xylophone,28
+F#4,F#,Xylophone,29
+G4,G,Xylophone,30
+A4,A,Xylophone,31
+B4,B,Xylophone,32
+A4,A,Xylophone,33
+G4,G,Xylophone,34
+F#4,F#,Xylophone,35
+G4,G,Xylophone,36
+E4,E,Xylophone,37
+E4,E,Xylophone,38
+E4,E,Xylophone,39
+E5,E,Xylophone,40
+E5,E,Xylophone,41
+E5,E,Xylophone,42
+E5,E,Xylophone,43
+D5,D,Xylophone,44
+D5,D,Xylophone,45
+E5,E,Xylophone,46
+D5,D,Xylophone,47
+C5,C,Xylophone,48
+B4,B,Xylophone,49
+A4,A,Xylophone,50
+D5,D,Xylophone,51
+C5,C,Xylophone,52
+B4,B,Xylophone,53
+B4,B,Xylophone,54
+E5,E,Xylophone,55
+D5,D,Xylophone,56
+C5,C,Xylophone,57
+B4,B,Xylophone,58
+A4,A,Xylophone,59
+B4,B,Xylophone,60
+G4,G,Xylophone,61
+A4,A,Xylophone,62
+B4,B,Xylophone,63
+A4,A,Xylophone,64
+G4,G,Xylophone,65
+F#4,F#,Xylophone,66
+E4,E,Xylophone,67
+F#4,F#,Xylophone,68
+G4,G,Xylophone,69
+A4,A,Xylophone,70
+B4,B,Xylophone,71
+A4,A,Xylophone,72
+G4,G,Xylophone,73
+F#4,F#,Xylophone,74
+G4,G,Xylophone,75
+E4,E,Xylophone,76
+E4,E,Xylophone,77
+E4,E,Xylophone,78
+E5,E,Xylophone,79
+E5,E,Xylophone,80
+E5,E,Xylophone,81
+E5,E,Xylophone,82
+D5,D,Xylophone,83
+D5,D,Xylophone,84
+E5,E,Xylophone,85
+D5,D,Xylophone,86
+C5,C,Xylophone,87
+B4,B,Xylophone,88
+A4,A,Xylophone,89
+D5,D,Xylophone,90
+C5,C,Xylophone,91
+B4,B,Xylophone,92
+B4,B,Xylophone,93
+E5,E,Xylophone,94
+D5,D,Xylophone,95
+C5,C,Xylophone,96
+B4,B,Xylophone,97
+A4,A,Xylophone,98
+B4,B,Xylophone,99
+G4,G,Xylophone,100
+A4,A,Xylophone,101
+B4,B,Xylophone,102
+A4,A,Xylophone,103
+G4,G,Xylophone,104
+F#4,F#,Xylophone,105
+E4,E,Xylophone,106
+F#4,F#,Xylophone,107
+G4,G,Xylophone,108
+A4,A,Xylophone,109
+B4,B,Xylophone,110
+A4,A,Xylophone,111
+G4,G,Xylophone,112
+F#4,F#,Xylophone,113
+G4,G,Xylophone,114
+E4,E,Xylophone,115

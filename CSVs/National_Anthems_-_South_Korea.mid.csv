@@ -1,0 +1,197 @@
+NoteOctave,Note,Instrument,Position
+E4,E,Shakuhachi,0
+A4,A,Shakuhachi,1
+G#4,G#,Shakuhachi,2
+F#4,F#,Shakuhachi,3
+A4,A,Shakuhachi,4
+E4,E,Shakuhachi,5
+C#4,C#,Shakuhachi,6
+E4,E,Shakuhachi,7
+A4,A,Shakuhachi,8
+B4,B,Shakuhachi,9
+C#5,C#,Shakuhachi,10
+D5,D,Shakuhachi,11
+C#5,C#,Shakuhachi,12
+B4,B,Shakuhachi,13
+E5,E,Shakuhachi,14
+D5,D,Shakuhachi,15
+C#5,C#,Shakuhachi,16
+B4,B,Shakuhachi,17
+A4,A,Shakuhachi,18
+G#4,G#,Shakuhachi,19
+F#4,F#,Shakuhachi,20
+E4,E,Shakuhachi,21
+C#4,C#,Shakuhachi,22
+E4,E,Shakuhachi,23
+A4,A,Shakuhachi,24
+B4,B,Shakuhachi,25
+B4,B,Shakuhachi,26
+C#5,C#,Shakuhachi,27
+A4,A,Shakuhachi,28
+G#4,G#,Shakuhachi,29
+A4,A,Shakuhachi,30
+B4,B,Shakuhachi,31
+G#4,G#,Shakuhachi,32
+C#5,C#,Shakuhachi,33
+D5,D,Shakuhachi,34
+E5,E,Shakuhachi,35
+C#5,C#,Shakuhachi,36
+B4,B,Shakuhachi,37
+A4,A,Shakuhachi,38
+G#4,G#,Shakuhachi,39
+A4,A,Shakuhachi,40
+B4,B,Shakuhachi,41
+E5,E,Shakuhachi,42
+D5,D,Shakuhachi,43
+C#5,C#,Shakuhachi,44
+B4,B,Shakuhachi,45
+A4,A,Shakuhachi,46
+G#4,G#,Shakuhachi,47
+F#4,F#,Shakuhachi,48
+E4,E,Shakuhachi,49
+C#4,C#,Shakuhachi,50
+E4,E,Shakuhachi,51
+A4,A,Shakuhachi,52
+B4,B,Shakuhachi,53
+B4,B,Shakuhachi,54
+C#5,C#,Shakuhachi,55
+A4,A,Shakuhachi,56
+A2,A,Acoustic Bass,0
+B2,B,Acoustic Bass,1
+C#3,C#,Acoustic Bass,2
+D3,D,Acoustic Bass,3
+C#3,C#,Acoustic Bass,4
+G#3,G#,Acoustic Bass,5
+F#3,F#,Acoustic Bass,6
+E3,E,Acoustic Bass,7
+C#3,C#,Acoustic Bass,8
+E3,E,Acoustic Bass,9
+C#3,C#,Acoustic Bass,10
+B2,B,Acoustic Bass,11
+E2,E,Acoustic Bass,12
+A2,A,Acoustic Bass,13
+E2,E,Acoustic Bass,14
+E2,E,Acoustic Bass,15
+E2,E,Acoustic Bass,16
+A2,A,Acoustic Bass,17
+A2,A,Acoustic Bass,18
+B2,B,Acoustic Bass,19
+C#3,C#,Acoustic Bass,20
+D3,D,Acoustic Bass,21
+C#3,C#,Acoustic Bass,22
+G#3,G#,Acoustic Bass,23
+F#3,F#,Acoustic Bass,24
+E3,E,Acoustic Bass,25
+C#3,C#,Acoustic Bass,26
+E3,E,Acoustic Bass,27
+G#2,G#,Acoustic Bass,28
+A2,A,Acoustic Bass,29
+E2,E,Acoustic Bass,30
+F#2,F#,Acoustic Bass,31
+E2,E,Acoustic Bass,32
+D2,D,Acoustic Bass,33
+C#2,C#,Acoustic Bass,34
+B2,B,Acoustic Bass,35
+A2,A,Acoustic Bass,36
+E3,E,Acoustic Bass,37
+F#3,F#,Acoustic Bass,38
+C#3,C#,Acoustic Bass,39
+D3,D,Acoustic Bass,40
+E3,E,Acoustic Bass,41
+F#3,F#,Acoustic Bass,42
+E3,E,Acoustic Bass,43
+D3,D,Acoustic Bass,44
+C#3,C#,Acoustic Bass,45
+B2,B,Acoustic Bass,46
+E3,E,Acoustic Bass,47
+A2,A,Acoustic Bass,48
+E3,E,Acoustic Bass,49
+E3,E,Acoustic Bass,50
+E3,E,Acoustic Bass,51
+A3,A,Acoustic Bass,52
+E3,E,Acoustic Bass,53
+F#2,F#,Acoustic Bass,54
+G#2,G#,Acoustic Bass,55
+E2,E,Acoustic Bass,56
+A2,A,Acoustic Bass,57
+B2,B,Acoustic Bass,58
+C#3,C#,Acoustic Bass,59
+A2,A,Acoustic Bass,60
+D3,D,Acoustic Bass,61
+C#3,C#,Acoustic Bass,62
+B2,B,Acoustic Bass,63
+A2,A,Acoustic Bass,64
+G#2,G#,Acoustic Bass,65
+F#2,F#,Acoustic Bass,66
+E2,E,Acoustic Bass,67
+D3,D,Acoustic Bass,68
+C#3,C#,Acoustic Bass,69
+B2,B,Acoustic Bass,70
+A2,A,Acoustic Bass,71
+E3,E,Acoustic Bass,72
+F#2,F#,Acoustic Bass,73
+C#3,C#,Acoustic Bass,74
+E3,E,Acoustic Bass,75
+F#3,F#,Acoustic Bass,76
+D3,D,Acoustic Bass,77
+C#3,C#,Acoustic Bass,78
+B2,B,Acoustic Bass,79
+E3,E,Acoustic Bass,80
+A2,A,Acoustic Bass,81
+E4,E,Xylophone,0
+A4,A,Xylophone,1
+G#4,G#,Xylophone,2
+F#4,F#,Xylophone,3
+A4,A,Xylophone,4
+E4,E,Xylophone,5
+C#4,C#,Xylophone,6
+E4,E,Xylophone,7
+A4,A,Xylophone,8
+B4,B,Xylophone,9
+C#5,C#,Xylophone,10
+D5,D,Xylophone,11
+C#5,C#,Xylophone,12
+B4,B,Xylophone,13
+E5,E,Xylophone,14
+D5,D,Xylophone,15
+C#5,C#,Xylophone,16
+B4,B,Xylophone,17
+A4,A,Xylophone,18
+G#4,G#,Xylophone,19
+F#4,F#,Xylophone,20
+E4,E,Xylophone,21
+C#4,C#,Xylophone,22
+E4,E,Xylophone,23
+A4,A,Xylophone,24
+B4,B,Xylophone,25
+B4,B,Xylophone,26
+C#5,C#,Xylophone,27
+A4,A,Xylophone,28
+G#4,G#,Xylophone,29
+A4,A,Xylophone,30
+B4,B,Xylophone,31
+G#4,G#,Xylophone,32
+C#5,C#,Xylophone,33
+D5,D,Xylophone,34
+E5,E,Xylophone,35
+C#5,C#,Xylophone,36
+B4,B,Xylophone,37
+A4,A,Xylophone,38
+G#4,G#,Xylophone,39
+A4,A,Xylophone,40
+B4,B,Xylophone,41
+E5,E,Xylophone,42
+D5,D,Xylophone,43
+C#5,C#,Xylophone,44
+B4,B,Xylophone,45
+A4,A,Xylophone,46
+G#4,G#,Xylophone,47
+F#4,F#,Xylophone,48
+E4,E,Xylophone,49
+C#4,C#,Xylophone,50
+E4,E,Xylophone,51
+A4,A,Xylophone,52
+B4,B,Xylophone,53
+B4,B,Xylophone,54
+C#5,C#,Xylophone,55
+A4,A,Xylophone,56

@@ -1,0 +1,247 @@
+NoteOctave,Note,Instrument,Position
+E4,E,Trumpet,0
+C#4,C#,Trumpet,1
+D4,D,Trumpet,2
+E4,E,Trumpet,3
+A4,A,Trumpet,4
+B4,B,Trumpet,5
+E4,E,Trumpet,6
+C#5,C#,Trumpet,7
+A4,A,Trumpet,8
+F#4,F#,Trumpet,9
+B4,B,Trumpet,10
+A4,A,Trumpet,11
+G#4,G#,Trumpet,12
+A4,A,Trumpet,13
+E4,E,Trumpet,14
+B4,B,Trumpet,15
+A4,A,Trumpet,16
+G#4,G#,Trumpet,17
+F#4,F#,Trumpet,18
+E4,E,Trumpet,19
+D4,D,Trumpet,20
+C#4,C#,Trumpet,21
+F#4,F#,Trumpet,22
+E4,E,Trumpet,23
+E4,E,Trumpet,24
+B4,B,Trumpet,25
+A4,A,Trumpet,26
+G#4,G#,Trumpet,27
+F#4,F#,Trumpet,28
+E4,E,Trumpet,29
+D4,D,Trumpet,30
+C#4,C#,Trumpet,31
+F#4,F#,Trumpet,32
+E4,E,Trumpet,33
+E4,E,Trumpet,34
+A4,A,Trumpet,35
+E4,E,Trumpet,36
+C#4,C#,Trumpet,37
+E4,E,Trumpet,38
+A4,A,Trumpet,39
+B4,B,Trumpet,40
+C#5,C#,Trumpet,41
+A4,A,Trumpet,42
+F#4,F#,Trumpet,43
+B4,B,Trumpet,44
+A4,A,Trumpet,45
+G#4,G#,Trumpet,46
+A4,A,Trumpet,47
+E4,E,Horn,0
+C#4,C#,Horn,1
+D4,D,Horn,2
+E4,E,Horn,3
+A3,A,Horn,4
+G#4,G#,Horn,5
+A4,A,Horn,6
+E4,E,Horn,7
+E4,E,Horn,8
+D4,D,Horn,9
+E4,E,Horn,10
+D4,D,Horn,11
+E4,E,Horn,12
+C#4,C#,Horn,13
+B3,B,Horn,14
+D4,D,Horn,15
+C#4,C#,Horn,16
+B3,B,Horn,17
+A3,A,Horn,18
+D4,D,Horn,19
+C#4,C#,Horn,20
+E4,E,Horn,21
+D4,D,Horn,22
+C#4,C#,Horn,23
+B3,B,Horn,24
+D4,D,Horn,25
+C#4,C#,Horn,26
+B3,B,Horn,27
+A3,A,Horn,28
+D4,D,Horn,29
+C#4,C#,Horn,30
+E4,E,Horn,31
+A4,A,Horn,32
+E4,E,Horn,33
+C#4,C#,Horn,34
+E4,E,Horn,35
+A4,A,Horn,36
+E4,E,Horn,37
+D4,D,Horn,38
+E3,E,Bass Trombone,0
+C#3,C#,Bass Trombone,1
+D3,D,Bass Trombone,2
+E3,E,Bass Trombone,3
+C#3,C#,Bass Trombone,4
+E3,E,Bass Trombone,5
+A3,A,Bass Trombone,6
+A2,A,Bass Trombone,7
+C#3,C#,Bass Trombone,8
+D3,D,Bass Trombone,9
+E3,E,Bass Trombone,10
+E2,E,Bass Trombone,11
+A2,A,Bass Trombone,12
+E3,E,Bass Trombone,13
+E2,E,Bass Trombone,14
+E3,E,Bass Trombone,15
+E2,E,Bass Trombone,16
+A2,A,Bass Trombone,17
+A2,A,Bass Trombone,18
+E3,E,Bass Trombone,19
+E2,E,Bass Trombone,20
+E3,E,Bass Trombone,21
+E2,E,Bass Trombone,22
+A2,A,Bass Trombone,23
+A2,A,Bass Trombone,24
+E3,E,Bass Trombone,25
+A3,A,Bass Trombone,26
+E3,E,Bass Trombone,27
+C#3,C#,Bass Trombone,28
+E3,E,Bass Trombone,29
+A3,A,Bass Trombone,30
+E3,E,Bass Trombone,31
+A2,A,Bass Trombone,32
+C#3,C#,Bass Trombone,33
+D3,D,Bass Trombone,34
+E3,E,Bass Trombone,35
+E2,E,Bass Trombone,36
+A2,A,Bass Trombone,37
+E2,E,Tuba,0
+C#2,C#,Tuba,1
+D2,D,Tuba,2
+E2,E,Tuba,3
+C#2,C#,Tuba,4
+E2,E,Tuba,5
+A2,A,Tuba,6
+A1,A,Tuba,7
+C#2,C#,Tuba,8
+D2,D,Tuba,9
+E2,E,Tuba,10
+E1,E,Tuba,11
+A1,A,Tuba,12
+E2,E,Tuba,13
+E1,E,Tuba,14
+E2,E,Tuba,15
+E1,E,Tuba,16
+A1,A,Tuba,17
+A1,A,Tuba,18
+E2,E,Tuba,19
+E1,E,Tuba,20
+E2,E,Tuba,21
+E1,E,Tuba,22
+A1,A,Tuba,23
+A1,A,Tuba,24
+E2,E,Tuba,25
+A2,A,Tuba,26
+E2,E,Tuba,27
+C#2,C#,Tuba,28
+E2,E,Tuba,29
+A2,A,Tuba,30
+E2,E,Tuba,31
+A1,A,Tuba,32
+C#2,C#,Tuba,33
+D2,D,Tuba,34
+E2,E,Tuba,35
+E1,E,Tuba,36
+A1,A,Tuba,37
+E4,E,StringInstrument,0
+E5,E,StringInstrument,1
+C#4,C#,StringInstrument,2
+C#5,C#,StringInstrument,3
+C#6,C#,StringInstrument,4
+C#5,C#,StringInstrument,5
+E4,E,StringInstrument,6
+E5,E,StringInstrument,7
+D5,D,StringInstrument,8
+C#5,C#,StringInstrument,9
+C#4,C#,StringInstrument,10
+E5,E,StringInstrument,11
+E4,E,StringInstrument,12
+E4,E,StringInstrument,13
+E5,E,StringInstrument,14
+C#6,C#,StringInstrument,15
+C#5,C#,StringInstrument,16
+E2,E,StringInstrument,0
+C#2,C#,StringInstrument,1
+D2,D,StringInstrument,2
+E2,E,StringInstrument,3
+C#2,C#,StringInstrument,4
+E2,E,StringInstrument,5
+A2,A,StringInstrument,6
+A1,A,StringInstrument,7
+C#2,C#,StringInstrument,8
+D2,D,StringInstrument,9
+E2,E,StringInstrument,10
+E1,E,StringInstrument,11
+A1,A,StringInstrument,12
+E2,E,StringInstrument,13
+E1,E,StringInstrument,14
+E2,E,StringInstrument,15
+E1,E,StringInstrument,16
+A1,A,StringInstrument,17
+A1,A,StringInstrument,18
+E2,E,StringInstrument,19
+E1,E,StringInstrument,20
+E2,E,StringInstrument,21
+E1,E,StringInstrument,22
+A1,A,StringInstrument,23
+A1,A,StringInstrument,24
+E2,E,StringInstrument,25
+A2,A,StringInstrument,26
+E2,E,StringInstrument,27
+C#2,C#,StringInstrument,28
+E2,E,StringInstrument,29
+A2,A,StringInstrument,30
+E2,E,StringInstrument,31
+A1,A,StringInstrument,32
+C#2,C#,StringInstrument,33
+D2,D,StringInstrument,34
+E2,E,StringInstrument,35
+E1,E,StringInstrument,36
+A1,A,StringInstrument,37
+E2,E,Timpani,0
+A2,A,Timpani,1
+A2,A,Timpani,2
+A2,A,Timpani,3
+A2,A,Timpani,4
+A2,A,Timpani,5
+E2,E,Timpani,6
+A2,A,Timpani,7
+E2,E,Timpani,8
+E2,E,Timpani,9
+E2,E,Timpani,10
+A2,A,Timpani,11
+E2,E,Timpani,12
+A2,A,Timpani,13
+E2,E,Timpani,14
+A2,A,Timpani,15
+A2,A,Timpani,16
+A2,A,Timpani,17
+A2,A,Timpani,18
+A2,A,Timpani,19
+A2,A,Timpani,20
+A2,A,Timpani,21
+A2,A,Timpani,22
+A2,A,Timpani,23
+A2,A,Timpani,24
+A2,A,Timpani,25
+A2,A,Timpani,26
+A2,A,Timpani,27

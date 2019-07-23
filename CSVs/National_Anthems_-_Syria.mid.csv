@@ -1,0 +1,258 @@
+NoteOctave,Note,Instrument,Position
+E2,E,Acoustic Bass,0
+E2,E,Acoustic Bass,1
+E2,E,Acoustic Bass,2
+E2,E,Acoustic Bass,3
+E2,E,Acoustic Bass,4
+A2,A,Acoustic Bass,5
+E3,E,Acoustic Bass,6
+A2,A,Acoustic Bass,7
+E3,E,Acoustic Bass,8
+A2,A,Acoustic Bass,9
+E3,E,Acoustic Bass,10
+A2,A,Acoustic Bass,11
+A2,A,Acoustic Bass,12
+E3,E,Acoustic Bass,13
+C#3,C#,Acoustic Bass,14
+B2,B,Acoustic Bass,15
+E3,E,Acoustic Bass,16
+A2,A,Acoustic Bass,17
+B2,B,Acoustic Bass,18
+E3,E,Acoustic Bass,19
+F#2,F#,Acoustic Bass,20
+B2,B,Acoustic Bass,21
+F#2,F#,Acoustic Bass,22
+B2,B,Acoustic Bass,23
+B2,B,Acoustic Bass,24
+E2,E,Acoustic Bass,25
+E2,E,Acoustic Bass,26
+A2,A,Acoustic Bass,27
+B2,B,Acoustic Bass,28
+C#3,C#,Acoustic Bass,29
+A2,A,Acoustic Bass,30
+E3,E,Acoustic Bass,31
+C#3,C#,Acoustic Bass,32
+D3,D,Acoustic Bass,33
+E3,E,Acoustic Bass,34
+A2,A,Acoustic Bass,35
+C#3,C#,Acoustic Bass,36
+F#2,F#,Acoustic Bass,37
+F#2,F#,Acoustic Bass,38
+F#2,F#,Acoustic Bass,39
+A2,A,Acoustic Bass,40
+F#2,F#,Acoustic Bass,41
+F#2,F#,Acoustic Bass,42
+F#2,F#,Acoustic Bass,43
+F#2,F#,Acoustic Bass,44
+B2,B,Acoustic Bass,45
+C#3,C#,Acoustic Bass,46
+D3,D,Acoustic Bass,47
+D3,D,Acoustic Bass,48
+A3,A,Acoustic Bass,49
+B3,B,Acoustic Bass,50
+A2,A,Acoustic Bass,51
+C#3,C#,Acoustic Bass,52
+F#2,F#,Acoustic Bass,53
+C#3,C#,Acoustic Bass,54
+F#2,F#,Acoustic Bass,55
+F#3,F#,Acoustic Bass,56
+G#3,G#,Acoustic Bass,57
+F#2,F#,Acoustic Bass,58
+A3,A,Acoustic Bass,59
+B3,B,Acoustic Bass,60
+E3,E,Acoustic Bass,61
+E2,E,Acoustic Bass,62
+A2,A,Acoustic Bass,63
+A2,A,Acoustic Bass,64
+D2,D,Acoustic Bass,65
+E2,E,Acoustic Bass,66
+A2,A,Acoustic Bass,67
+E2,E,Acoustic Bass,68
+F#2,F#,Acoustic Bass,69
+D3,D,Acoustic Bass,70
+C#3,C#,Acoustic Bass,71
+A2,A,Acoustic Bass,72
+C#2,C#,Acoustic Bass,73
+C#2,C#,Acoustic Bass,74
+E2,E,Acoustic Bass,75
+B2,B,Acoustic Bass,76
+C#3,C#,Acoustic Bass,77
+B2,B,Acoustic Bass,78
+B2,B,Acoustic Bass,79
+F#2,F#,Acoustic Bass,80
+C#3,C#,Acoustic Bass,81
+D3,D,Acoustic Bass,82
+G#3,G#,Acoustic Bass,83
+A3,A,Acoustic Bass,84
+B2,B,Acoustic Bass,85
+E3,E,Acoustic Bass,86
+A2,A,Acoustic Bass,87
+D3,D,Acoustic Bass,88
+A2,A,Acoustic Bass,89
+E4,E,Horn,0
+A4,A,Horn,1
+A4,A,Horn,2
+A4,A,Horn,3
+A4,A,Horn,4
+E4,E,Horn,5
+A4,A,Horn,6
+C#5,C#,Horn,7
+C#5,C#,Horn,8
+C#5,C#,Horn,9
+C#5,C#,Horn,10
+A4,A,Horn,11
+C#5,C#,Horn,12
+E5,E,Horn,13
+D5,D,Horn,14
+C#5,C#,Horn,15
+D5,D,Horn,16
+C#5,C#,Horn,17
+B4,B,Horn,18
+C#5,C#,Horn,19
+B4,B,Horn,20
+A4,A,Horn,21
+B4,B,Horn,22
+F#4,F#,Horn,23
+B4,B,Horn,24
+B4,B,Horn,25
+C#5,C#,Horn,26
+D5,D,Horn,27
+D5,D,Horn,28
+D5,D,Horn,29
+F#5,F#,Horn,30
+E5,E,Horn,31
+D5,D,Horn,32
+C#5,C#,Horn,33
+B4,B,Horn,34
+A4,A,Horn,35
+C#5,C#,Horn,36
+C#5,C#,Horn,37
+B4,B,Horn,38
+A4,A,Horn,39
+G#4,G#,Horn,40
+F#4,F#,Horn,41
+G#4,G#,Horn,42
+G#4,G#,Horn,43
+A4,A,Horn,44
+C#4,C#,Horn,45
+F#4,F#,Horn,46
+F#4,F#,Horn,47
+G#4,G#,Horn,48
+A4,A,Horn,49
+A4,A,Horn,50
+B4,B,Horn,51
+C#5,C#,Horn,52
+D5,D,Horn,53
+E5,E,Horn,54
+C#5,C#,Horn,55
+C#5,C#,Horn,56
+D5,D,Horn,57
+C#5,C#,Horn,58
+D5,D,Horn,59
+B4,B,Horn,60
+A4,A,Horn,61
+B4,B,Horn,62
+C#5,C#,Horn,63
+A4,A,Horn,64
+G#4,G#,Horn,65
+F#4,F#,Horn,66
+C#4,C#,Horn,67
+F#4,F#,Horn,68
+F#4,F#,Horn,69
+G#4,G#,Horn,70
+A4,A,Horn,71
+A4,A,Horn,72
+B4,B,Horn,73
+C#5,C#,Horn,74
+D5,D,Horn,75
+E5,E,Horn,76
+C#5,C#,Horn,77
+C#5,C#,Horn,78
+F#5,F#,Horn,79
+E5,E,Horn,80
+D5,D,Horn,81
+C#5,C#,Horn,82
+B4,B,Horn,83
+B4,B,Horn,84
+A4,A,Horn,85
+G#4,G#,Horn,86
+A4,A,Horn,87
+B4,B,Horn,88
+C#5,C#,Horn,89
+C#5,C#,Horn,90
+E5,E,Horn,91
+D5,D,Horn,92
+C#5,C#,Horn,93
+B4,B,Horn,94
+B4,B,Horn,95
+C#5,C#,Horn,96
+D5,D,Horn,97
+C#5,C#,Horn,98
+B4,B,Horn,99
+A4,A,Horn,100
+G#4,G#,Horn,101
+F#4,F#,Horn,102
+G#4,G#,Horn,103
+A4,A,Horn,104
+B4,B,Horn,105
+A4,A,Horn,106
+G#4,G#,Horn,107
+A4,A,Horn,108
+A4,A,Horn,109
+A4,A,Horn,110
+A4,A,Horn,111
+E4,E,Electric Organ,0
+E4,E,Electric Organ,1
+E4,E,Electric Organ,2
+E4,E,Electric Organ,3
+E4,E,Electric Organ,4
+A4,A,Electric Organ,5
+A4,A,Electric Organ,6
+C#5,C#,Electric Organ,7
+D5,D,Electric Organ,8
+C#5,C#,Electric Organ,9
+C#5,C#,Electric Organ,10
+B4,B,Electric Organ,11
+B4,B,Electric Organ,12
+C#5,C#,Electric Organ,13
+G#4,G#,Electric Organ,14
+C#5,C#,Electric Organ,15
+A4,A,Electric Organ,16
+B4,B,Electric Organ,17
+A4,A,Electric Organ,18
+G#4,G#,Electric Organ,19
+F#4,F#,Electric Organ,20
+G#4,G#,Electric Organ,21
+A4,A,Electric Organ,22
+B4,B,Electric Organ,23
+E5,E,Electric Organ,24
+C#5,C#,Electric Organ,25
+D5,D,Electric Organ,26
+A4,A,Electric Organ,27
+B4,B,Electric Organ,28
+A4,A,Electric Organ,29
+G#4,G#,Electric Organ,30
+F#4,F#,Electric Organ,31
+G#4,G#,Electric Organ,32
+A4,A,Electric Organ,33
+B4,B,Electric Organ,34
+D5,D,Electric Organ,35
+E5,E,Electric Organ,36
+G#4,G#,Electric Organ,37
+F#4,F#,Electric Organ,38
+F#4,F#,Electric Organ,39
+A4,A,Electric Organ,40
+B4,B,Electric Organ,41
+E4,E,Electric Organ,42
+D5,D,Electric Organ,43
+C#5,C#,Electric Organ,44
+B4,B,Electric Organ,45
+C#5,C#,Electric Organ,46
+C#5,C#,Electric Organ,47
+B4,B,Electric Organ,48
+A4,A,Electric Organ,49
+G#4,G#,Electric Organ,50
+G#4,G#,Electric Organ,51
+A4,A,Electric Organ,52
+A4,A,Electric Organ,53
+G#4,G#,Electric Organ,54

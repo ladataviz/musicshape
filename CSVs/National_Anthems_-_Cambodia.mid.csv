@@ -1,0 +1,572 @@
+NoteOctave,Note,Instrument,Position
+G4,G,Koto,0
+C4,C,Koto,1
+E4,E,Koto,2
+G4,G,Koto,3
+C4,C,Koto,4
+C4,C,Koto,5
+C4,C,Koto,6
+A4,A,Koto,7
+A4,A,Koto,8
+G4,G,Koto,9
+F4,F,Koto,10
+F4,F,Koto,11
+E4,E,Koto,12
+D4,D,Koto,13
+D4,D,Koto,14
+C4,C,Koto,15
+C4,C,Koto,16
+B3,B,Koto,17
+B3,B,Koto,18
+A3,A,Koto,19
+G3,G,Koto,20
+A3,A,Koto,21
+B3,B,Koto,22
+C4,C,Koto,23
+D4,D,Koto,24
+G4,G,Koto,25
+A4,A,Koto,26
+A4,A,Koto,27
+G4,G,Koto,28
+G4,G,Koto,29
+G4,G,Koto,30
+F4,F,Koto,31
+E4,E,Koto,32
+C4,C,Koto,33
+D4,D,Koto,34
+E4,E,Koto,35
+C4,C,Koto,36
+E4,E,Koto,37
+F4,F,Koto,38
+G4,G,Koto,39
+G4,G,Koto,40
+C5,C,Koto,41
+G4,G,Koto,42
+F4,F,Koto,43
+G4,G,Koto,44
+F4,F,Koto,45
+E4,E,Koto,46
+D4,D,Koto,47
+D4,D,Koto,48
+C4,C,Koto,49
+B3,B,Koto,50
+B3,B,Koto,51
+A3,A,Koto,52
+G3,G,Koto,53
+A3,A,Koto,54
+B3,B,Koto,55
+C4,C,Koto,56
+C4,C,Koto,57
+D4,D,Koto,58
+G4,G,Koto,59
+A4,A,Koto,60
+G4,G,Koto,61
+F4,F,Koto,62
+E4,E,Koto,63
+G4,G,Koto,64
+A4,A,Koto,65
+B4,B,Koto,66
+C5,C,Koto,67
+A4,A,Koto,68
+A4,A,Koto,69
+A4,A,Koto,70
+A4,A,Koto,71
+A4,A,Koto,72
+G4,G,Koto,73
+F4,F,Koto,74
+C4,C,Koto,75
+F4,F,Koto,76
+G4,G,Koto,77
+A4,A,Koto,78
+F4,F,Koto,79
+G4,G,Koto,80
+A4,A,Koto,81
+B-4,B-,Koto,82
+B-4,B-,Koto,83
+B-4,B-,Koto,84
+B-4,B-,Koto,85
+B-4,B-,Koto,86
+A4,A,Koto,87
+G4,G,Koto,88
+F4,F,Koto,89
+A4,A,Koto,90
+G4,G,Koto,91
+C4,C,Koto,92
+E4,E,Koto,93
+F4,F,Koto,94
+G4,G,Koto,95
+C4,C,Koto,96
+E4,E,Koto,97
+F4,F,Koto,98
+F4,F,Koto,99
+G4,G,Koto,100
+G4,G,Koto,101
+G4,G,Koto,102
+F4,F,Koto,103
+E4,E,Koto,104
+F4,F,Koto,105
+G4,G,Koto,106
+C4,C,Koto,107
+E4,E,Koto,108
+F4,F,Koto,109
+F4,F,Koto,110
+G4,G,Koto,111
+G4,G,Koto,112
+G4,G,Koto,113
+G4,G,Koto,114
+F4,F,Koto,115
+E4,E,Koto,116
+F4,F,Koto,117
+G4,G,Koto,118
+C5,C,Koto,119
+C5,C,Koto,120
+C5,C,Koto,121
+B-4,B-,Koto,122
+A4,A,Koto,123
+G4,G,Koto,124
+F4,F,Koto,125
+E4,E,Koto,126
+G4,G,Koto,127
+F4,F,Koto,128
+C4,C,Koto,129
+F4,F,Koto,130
+G4,G,Koto,131
+A4,A,Koto,132
+A4,A,Koto,133
+A4,A,Koto,134
+G4,G,Koto,135
+F4,F,Koto,136
+G4,G,Koto,137
+A4,A,Koto,138
+F4,F,Koto,139
+E4,E,Koto,140
+F4,F,Koto,141
+G4,G,Koto,142
+G4,G,Koto,143
+G4,G,Koto,144
+G4,G,Koto,145
+F4,F,Koto,146
+E4,E,Koto,147
+D4,D,Koto,148
+C4,C,Koto,149
+D5,D,Koto,150
+D5,D,Koto,151
+D5,D,Koto,152
+D5,D,Koto,153
+D5,D,Koto,154
+D5,D,Koto,155
+C5,C,Koto,156
+B-4,B-,Koto,157
+C5,C,Koto,158
+D5,D,Koto,159
+B-4,B-,Koto,160
+B-4,B-,Koto,161
+A4,A,Koto,162
+B-4,B-,Koto,163
+B-4,B-,Koto,164
+C5,C,Koto,165
+C5,C,Koto,166
+C5,C,Koto,167
+B-4,B-,Koto,168
+A4,A,Koto,169
+B-4,B-,Koto,170
+C5,C,Koto,171
+F4,F,Koto,172
+A4,A,Koto,173
+B-4,B-,Koto,174
+C5,C,Koto,175
+C5,C,Koto,176
+C5,C,Koto,177
+C5,C,Koto,178
+C5,C,Koto,179
+C5,C,Koto,180
+B-4,B-,Koto,181
+A4,A,Koto,182
+B-4,B-,Koto,183
+C5,C,Koto,184
+F4,F,Koto,185
+A4,A,Koto,186
+A4,A,Koto,187
+B-4,B-,Koto,188
+C5,C,Koto,189
+C5,C,Koto,190
+C5,C,Koto,191
+C5,C,Koto,192
+C5,C,Koto,193
+C5,C,Koto,194
+C5,C,Koto,195
+C5,C,Koto,196
+C5,C,Koto,197
+C5,C,Koto,198
+C5,C,Koto,199
+C5,C,Koto,200
+C5,C,Koto,201
+F5,F,Koto,202
+G4,G,Celesta,0
+C4,C,Celesta,1
+E4,E,Celesta,2
+G4,G,Celesta,3
+C4,C,Celesta,4
+C4,C,Celesta,5
+C4,C,Celesta,6
+A4,A,Celesta,7
+A4,A,Celesta,8
+G4,G,Celesta,9
+F4,F,Celesta,10
+F4,F,Celesta,11
+E4,E,Celesta,12
+D4,D,Celesta,13
+D4,D,Celesta,14
+C4,C,Celesta,15
+C4,C,Celesta,16
+B3,B,Celesta,17
+B3,B,Celesta,18
+A3,A,Celesta,19
+G3,G,Celesta,20
+A3,A,Celesta,21
+B3,B,Celesta,22
+C4,C,Celesta,23
+D4,D,Celesta,24
+G4,G,Celesta,25
+A4,A,Celesta,26
+A4,A,Celesta,27
+G4,G,Celesta,28
+G4,G,Celesta,29
+G4,G,Celesta,30
+F4,F,Celesta,31
+E4,E,Celesta,32
+C4,C,Celesta,33
+D4,D,Celesta,34
+E4,E,Celesta,35
+C4,C,Celesta,36
+E4,E,Celesta,37
+F4,F,Celesta,38
+G4,G,Celesta,39
+G4,G,Celesta,40
+C5,C,Celesta,41
+G4,G,Celesta,42
+F4,F,Celesta,43
+G4,G,Celesta,44
+F4,F,Celesta,45
+E4,E,Celesta,46
+D4,D,Celesta,47
+D4,D,Celesta,48
+C4,C,Celesta,49
+B3,B,Celesta,50
+B3,B,Celesta,51
+A3,A,Celesta,52
+G3,G,Celesta,53
+A3,A,Celesta,54
+B3,B,Celesta,55
+C4,C,Celesta,56
+C4,C,Celesta,57
+D4,D,Celesta,58
+G4,G,Celesta,59
+A4,A,Celesta,60
+G4,G,Celesta,61
+F4,F,Celesta,62
+E4,E,Celesta,63
+G4,G,Celesta,64
+A4,A,Celesta,65
+B4,B,Celesta,66
+C5,C,Celesta,67
+A4,A,Celesta,68
+A4,A,Celesta,69
+A4,A,Celesta,70
+A4,A,Celesta,71
+A4,A,Celesta,72
+G4,G,Celesta,73
+F4,F,Celesta,74
+C4,C,Celesta,75
+F4,F,Celesta,76
+G4,G,Celesta,77
+A4,A,Celesta,78
+F4,F,Celesta,79
+G4,G,Celesta,80
+A4,A,Celesta,81
+B-4,B-,Celesta,82
+B-4,B-,Celesta,83
+B-4,B-,Celesta,84
+B-4,B-,Celesta,85
+B-4,B-,Celesta,86
+A4,A,Celesta,87
+G4,G,Celesta,88
+F4,F,Celesta,89
+A4,A,Celesta,90
+G4,G,Celesta,91
+C4,C,Celesta,92
+E4,E,Celesta,93
+F4,F,Celesta,94
+G4,G,Celesta,95
+C4,C,Celesta,96
+E4,E,Celesta,97
+F4,F,Celesta,98
+F4,F,Celesta,99
+G4,G,Celesta,100
+G4,G,Celesta,101
+G4,G,Celesta,102
+F4,F,Celesta,103
+E4,E,Celesta,104
+F4,F,Celesta,105
+G4,G,Celesta,106
+C4,C,Celesta,107
+E4,E,Celesta,108
+F4,F,Celesta,109
+F4,F,Celesta,110
+G4,G,Celesta,111
+G4,G,Celesta,112
+G4,G,Celesta,113
+G4,G,Celesta,114
+F4,F,Celesta,115
+E4,E,Celesta,116
+F4,F,Celesta,117
+G4,G,Celesta,118
+C5,C,Celesta,119
+C5,C,Celesta,120
+C5,C,Celesta,121
+B-4,B-,Celesta,122
+A4,A,Celesta,123
+G4,G,Celesta,124
+F4,F,Celesta,125
+E4,E,Celesta,126
+G4,G,Celesta,127
+F4,F,Celesta,128
+C4,C,Celesta,129
+F4,F,Celesta,130
+G4,G,Celesta,131
+A4,A,Celesta,132
+A4,A,Celesta,133
+A4,A,Celesta,134
+G4,G,Celesta,135
+F4,F,Celesta,136
+G4,G,Celesta,137
+A4,A,Celesta,138
+F4,F,Celesta,139
+E4,E,Celesta,140
+F4,F,Celesta,141
+G4,G,Celesta,142
+G4,G,Celesta,143
+G4,G,Celesta,144
+G4,G,Celesta,145
+F4,F,Celesta,146
+E4,E,Celesta,147
+D4,D,Celesta,148
+C4,C,Celesta,149
+D5,D,Celesta,150
+D5,D,Celesta,151
+D5,D,Celesta,152
+D5,D,Celesta,153
+D5,D,Celesta,154
+D5,D,Celesta,155
+C5,C,Celesta,156
+B-4,B-,Celesta,157
+C5,C,Celesta,158
+D5,D,Celesta,159
+B-4,B-,Celesta,160
+B-4,B-,Celesta,161
+A4,A,Celesta,162
+B-4,B-,Celesta,163
+B-4,B-,Celesta,164
+C5,C,Celesta,165
+C5,C,Celesta,166
+C5,C,Celesta,167
+B-4,B-,Celesta,168
+A4,A,Celesta,169
+B-4,B-,Celesta,170
+C5,C,Celesta,171
+F4,F,Celesta,172
+A4,A,Celesta,173
+B-4,B-,Celesta,174
+C5,C,Celesta,175
+C5,C,Celesta,176
+C5,C,Celesta,177
+C5,C,Celesta,178
+C5,C,Celesta,179
+C5,C,Celesta,180
+B-4,B-,Celesta,181
+A4,A,Celesta,182
+B-4,B-,Celesta,183
+C5,C,Celesta,184
+F4,F,Celesta,185
+A4,A,Celesta,186
+A4,A,Celesta,187
+B-4,B-,Celesta,188
+C5,C,Celesta,189
+C5,C,Celesta,190
+C5,C,Celesta,191
+C5,C,Celesta,192
+C5,C,Celesta,193
+C5,C,Celesta,194
+C5,C,Celesta,195
+C5,C,Celesta,196
+C5,C,Celesta,197
+C5,C,Celesta,198
+C5,C,Celesta,199
+C5,C,Celesta,200
+C5,C,Celesta,201
+F5,F,Celesta,202
+G2,G,Acoustic Bass,0
+C2,C,Acoustic Bass,1
+C2,C,Acoustic Bass,2
+F2,F,Acoustic Bass,3
+G2,G,Acoustic Bass,4
+G2,G,Acoustic Bass,5
+C2,C,Acoustic Bass,6
+C2,C,Acoustic Bass,7
+C2,C,Acoustic Bass,8
+G2,G,Acoustic Bass,9
+C2,C,Acoustic Bass,10
+F2,F,Acoustic Bass,11
+D2,D,Acoustic Bass,12
+G2,G,Acoustic Bass,13
+G2,G,Acoustic Bass,14
+G2,G,Acoustic Bass,15
+G2,G,Acoustic Bass,16
+G2,G,Acoustic Bass,17
+D2,D,Acoustic Bass,18
+B2,B,Acoustic Bass,19
+D2,D,Acoustic Bass,20
+G2,G,Acoustic Bass,21
+G2,G,Acoustic Bass,22
+G2,G,Acoustic Bass,23
+G2,G,Acoustic Bass,24
+C2,C,Acoustic Bass,25
+G2,G,Acoustic Bass,26
+C2,C,Acoustic Bass,27
+G2,G,Acoustic Bass,28
+C2,C,Acoustic Bass,29
+C2,C,Acoustic Bass,30
+C2,C,Acoustic Bass,31
+C2,C,Acoustic Bass,32
+C2,C,Acoustic Bass,33
+G2,G,Acoustic Bass,34
+C2,C,Acoustic Bass,35
+G2,G,Acoustic Bass,36
+A2,A,Acoustic Bass,37
+F2,F,Acoustic Bass,38
+A2,A,Acoustic Bass,39
+G2,G,Acoustic Bass,40
+G2,G,Acoustic Bass,41
+G2,G,Acoustic Bass,42
+G2,G,Acoustic Bass,43
+G2,G,Acoustic Bass,44
+D2,D,Acoustic Bass,45
+B2,B,Acoustic Bass,46
+D2,D,Acoustic Bass,47
+G2,G,Acoustic Bass,48
+G2,G,Acoustic Bass,49
+G2,G,Acoustic Bass,50
+G2,G,Acoustic Bass,51
+G2,G,Acoustic Bass,52
+D2,D,Acoustic Bass,53
+G2,G,Acoustic Bass,54
+G2,G,Acoustic Bass,55
+C2,C,Acoustic Bass,56
+C2,C,Acoustic Bass,57
+C2,C,Acoustic Bass,58
+C2,C,Acoustic Bass,59
+F2,F,Acoustic Bass,60
+C2,C,Acoustic Bass,61
+F2,F,Acoustic Bass,62
+C2,C,Acoustic Bass,63
+F2,F,Acoustic Bass,64
+F2,F,Acoustic Bass,65
+F2,F,Acoustic Bass,66
+F2,F,Acoustic Bass,67
+G2,G,Acoustic Bass,68
+C2,C,Acoustic Bass,69
+G2,G,Acoustic Bass,70
+C2,C,Acoustic Bass,71
+E2,E,Acoustic Bass,72
+C2,C,Acoustic Bass,73
+F2,F,Acoustic Bass,74
+F2,F,Acoustic Bass,75
+C2,C,Acoustic Bass,76
+C2,C,Acoustic Bass,77
+C2,C,Acoustic Bass,78
+C2,C,Acoustic Bass,79
+C2,C,Acoustic Bass,80
+G2,G,Acoustic Bass,81
+C2,C,Acoustic Bass,82
+G2,G,Acoustic Bass,83
+C2,C,Acoustic Bass,84
+G2,G,Acoustic Bass,85
+C2,C,Acoustic Bass,86
+G2,G,Acoustic Bass,87
+C2,C,Acoustic Bass,88
+C2,C,Acoustic Bass,89
+C2,C,Acoustic Bass,90
+C2,C,Acoustic Bass,91
+C2,C,Acoustic Bass,92
+G2,G,Acoustic Bass,93
+C2,C,Acoustic Bass,94
+G2,G,Acoustic Bass,95
+C2,C,Acoustic Bass,96
+G2,G,Acoustic Bass,97
+C2,C,Acoustic Bass,98
+E2,E,Acoustic Bass,99
+F2,F,Acoustic Bass,100
+C2,C,Acoustic Bass,101
+E2,E,Acoustic Bass,102
+C2,C,Acoustic Bass,103
+F2,F,Acoustic Bass,104
+F2,F,Acoustic Bass,105
+F2,F,Acoustic Bass,106
+F2,F,Acoustic Bass,107
+F2,F,Acoustic Bass,108
+C2,C,Acoustic Bass,109
+E2,E,Acoustic Bass,110
+C2,C,Acoustic Bass,111
+F2,F,Acoustic Bass,112
+F2,F,Acoustic Bass,113
+F2,F,Acoustic Bass,114
+F2,F,Acoustic Bass,115
+E2,E,Acoustic Bass,116
+C2,C,Acoustic Bass,117
+D2,D,Acoustic Bass,118
+G2,G,Acoustic Bass,119
+C2,C,Acoustic Bass,120
+C3,C,Acoustic Bass,121
+B-2,B-,Acoustic Bass,122
+D2,D,Acoustic Bass,123
+F2,F,Acoustic Bass,124
+B-2,B-,Acoustic Bass,125
+B-2,B-,Acoustic Bass,126
+B-2,B-,Acoustic Bass,127
+F2,F,Acoustic Bass,128
+D2,D,Acoustic Bass,129
+F2,F,Acoustic Bass,130
+B-2,B-,Acoustic Bass,131
+B-2,B-,Acoustic Bass,132
+B-2,B-,Acoustic Bass,133
+F2,F,Acoustic Bass,134
+B-2,B-,Acoustic Bass,135
+F2,F,Acoustic Bass,136
+C2,C,Acoustic Bass,137
+F2,F,Acoustic Bass,138
+C2,C,Acoustic Bass,139
+A2,A,Acoustic Bass,140
+C2,C,Acoustic Bass,141
+F2,F,Acoustic Bass,142
+F2,F,Acoustic Bass,143
+F2,F,Acoustic Bass,144
+F2,F,Acoustic Bass,145
+C2,C,Acoustic Bass,146
+F2,F,Acoustic Bass,147
+C2,C,Acoustic Bass,148
+F2,F,Acoustic Bass,149
+F2,F,Acoustic Bass,150
+C2,C,Acoustic Bass,151
+F2,F,Acoustic Bass,152
+F2,F,Acoustic Bass,153
+F2,F,Acoustic Bass,154
+A2,A,Acoustic Bass,155
+B-2,B-,Acoustic Bass,156
+C2,C,Acoustic Bass,157
+A2,A,Acoustic Bass,158
+F2,F,Acoustic Bass,159
+C2,C,Acoustic Bass,160
+C2,C,Acoustic Bass,161
+C2,C,Acoustic Bass,162
+F2,F,Acoustic Bass,163
+F2,F,Acoustic Bass,164

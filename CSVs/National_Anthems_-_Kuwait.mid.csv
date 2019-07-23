@@ -1,0 +1,176 @@
+NoteOctave,Note,Instrument,Position
+G4,G,Marimba,0
+C5,C,Marimba,1
+C5,C,Marimba,2
+B4,B,Marimba,3
+B4,B,Marimba,4
+A4,A,Marimba,5
+B4,B,Marimba,6
+A4,A,Marimba,7
+G4,G,Marimba,8
+C5,C,Marimba,9
+G4,G,Marimba,10
+F4,F,Marimba,11
+G4,G,Marimba,12
+A4,A,Marimba,13
+G4,G,Marimba,14
+G4,G,Marimba,15
+B4,B,Marimba,16
+B4,B,Marimba,17
+A4,A,Marimba,18
+A4,A,Marimba,19
+B4,B,Marimba,20
+B4,B,Marimba,21
+G4,G,Marimba,22
+A4,A,Marimba,23
+G4,G,Marimba,24
+F4,F,Marimba,25
+E4,E,Marimba,26
+F4,F,Marimba,27
+E4,E,Marimba,28
+D4,D,Marimba,29
+C4,C,Marimba,30
+C4,C,Marimba,31
+G4,G,Marimba,32
+G4,G,Marimba,33
+G4,G,Marimba,34
+A4,A,Marimba,35
+G4,G,Marimba,36
+F4,F,Marimba,37
+G4,G,Marimba,38
+G4,G,Marimba,39
+A4,A,Marimba,40
+A4,A,Marimba,41
+A4,A,Marimba,42
+B4,B,Marimba,43
+A4,A,Marimba,44
+G4,G,Marimba,45
+A4,A,Marimba,46
+G4,G,Marimba,47
+E5,E,Marimba,48
+E5,E,Marimba,49
+D5,D,Marimba,50
+D5,D,Marimba,51
+B4,B,Marimba,52
+B4,B,Marimba,53
+G4,G,Marimba,54
+C5,C,Marimba,55
+C5,C,Marimba,56
+C5,C,Marimba,57
+C3,C,Acoustic Bass,0
+C2,C,Acoustic Bass,1
+G2,G,Acoustic Bass,2
+C3,C,Acoustic Bass,3
+C2,C,Acoustic Bass,4
+G2,G,Acoustic Bass,5
+C3,C,Acoustic Bass,6
+C2,C,Acoustic Bass,7
+G2,G,Acoustic Bass,8
+C3,C,Acoustic Bass,9
+C2,C,Acoustic Bass,10
+G2,G,Acoustic Bass,11
+C3,C,Acoustic Bass,12
+C3,C,Acoustic Bass,13
+C3,C,Acoustic Bass,14
+C2,C,Acoustic Bass,15
+C2,C,Acoustic Bass,16
+C2,C,Acoustic Bass,17
+C3,C,Acoustic Bass,18
+C3,C,Acoustic Bass,19
+C3,C,Acoustic Bass,20
+C3,C,Acoustic Bass,21
+C2,C,Acoustic Bass,22
+G2,G,Acoustic Bass,23
+F2,F,Acoustic Bass,24
+G2,G,Acoustic Bass,25
+F2,F,Acoustic Bass,26
+G2,G,Acoustic Bass,27
+E2,E,Acoustic Bass,28
+G2,G,Acoustic Bass,29
+F2,F,Acoustic Bass,30
+E2,E,Acoustic Bass,31
+F2,F,Acoustic Bass,32
+E2,E,Acoustic Bass,33
+D2,D,Acoustic Bass,34
+F2,F,Acoustic Bass,35
+E2,E,Acoustic Bass,36
+C2,C,Acoustic Bass,37
+D2,D,Acoustic Bass,38
+C2,C,Acoustic Bass,39
+D2,D,Acoustic Bass,40
+C2,C,Acoustic Bass,41
+D2,D,Acoustic Bass,42
+C2,C,Acoustic Bass,43
+D2,D,Acoustic Bass,44
+C2,C,Acoustic Bass,45
+G2,G,Acoustic Bass,46
+D3,D,Acoustic Bass,47
+G2,G,Acoustic Bass,48
+F2,F,Acoustic Bass,49
+C3,C,Acoustic Bass,50
+F2,F,Acoustic Bass,51
+C3,C,Acoustic Bass,52
+B2,B,Acoustic Bass,53
+G2,G,Acoustic Bass,54
+G2,G,Acoustic Bass,55
+C2,C,Acoustic Bass,56
+C2,C,Acoustic Bass,57
+C2,C,Acoustic Bass,58
+C3,C,Acoustic Bass,59
+C2,C,Acoustic Bass,60
+C3,C,Acoustic Bass,61
+C2,C,Acoustic Bass,62
+C3,C,Acoustic Bass,63
+C2,C,Acoustic Bass,64
+C3,C,Acoustic Bass,65
+C2,C,Acoustic Bass,66
+C2,C,Acoustic Bass,67
+C2,C,Reed Organ,0
+C3,C,Reed Organ,1
+C2,C,Reed Organ,2
+C3,C,Reed Organ,3
+C2,C,Reed Organ,4
+C3,C,Reed Organ,5
+C2,C,Reed Organ,6
+C3,C,Reed Organ,7
+C2,C,Reed Organ,8
+C3,C,Reed Organ,9
+C2,C,Reed Organ,10
+C3,C,Reed Organ,11
+C2,C,Reed Organ,12
+C3,C,Reed Organ,13
+C2,C,Reed Organ,14
+C3,C,Reed Organ,15
+C2,C,Reed Organ,16
+C3,C,Reed Organ,17
+C2,C,Reed Organ,18
+C3,C,Reed Organ,19
+C2,C,Reed Organ,20
+C3,C,Reed Organ,21
+C2,C,Reed Organ,22
+C3,C,Reed Organ,23
+C2,C,Reed Organ,24
+G2,G,Reed Organ,25
+F2,F,Reed Organ,26
+G2,G,Reed Organ,27
+F2,F,Reed Organ,28
+G2,G,Reed Organ,29
+E2,E,Reed Organ,30
+G2,G,Reed Organ,31
+F2,F,Reed Organ,32
+E2,E,Reed Organ,33
+F2,F,Reed Organ,34
+E2,E,Reed Organ,35
+D2,D,Reed Organ,36
+F2,F,Reed Organ,37
+E2,E,Reed Organ,38
+C2,C,Reed Organ,39
+D2,D,Reed Organ,40
+C2,C,Reed Organ,41
+D2,D,Reed Organ,42
+C2,C,Reed Organ,43
+D2,D,Reed Organ,44
+C2,C,Reed Organ,45
+D2,D,Reed Organ,46
+C2,C,Reed Organ,47
+G2,G,Reed Organ,48

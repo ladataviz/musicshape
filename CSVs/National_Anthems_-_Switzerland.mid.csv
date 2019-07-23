@@ -1,0 +1,274 @@
+NoteOctave,Note,Instrument,Position
+B-2,B-,Electric Bass,0
+B-2,B-,Electric Bass,1
+B-2,B-,Electric Bass,2
+B-2,B-,Electric Bass,3
+C3,C,Electric Bass,4
+C3,C,Electric Bass,5
+C3,C,Electric Bass,6
+A2,A,Electric Bass,7
+A2,A,Electric Bass,8
+A2,A,Electric Bass,9
+F2,F,Electric Bass,10
+B-2,B-,Electric Bass,11
+B-2,B-,Electric Bass,12
+B-2,B-,Electric Bass,13
+B-2,B-,Electric Bass,14
+B-2,B-,Electric Bass,15
+A2,A,Electric Bass,16
+G2,G,Electric Bass,17
+C3,C,Electric Bass,18
+F2,F,Electric Bass,19
+B-2,B-,Electric Bass,20
+B-2,B-,Electric Bass,21
+C3,C,Electric Bass,22
+F2,F,Electric Bass,23
+F2,F,Electric Bass,24
+F3,F,Electric Bass,25
+F2,F,Electric Bass,26
+F2,F,Electric Bass,27
+F3,F,Electric Bass,28
+F2,F,Electric Bass,29
+F2,F,Electric Bass,30
+B-2,B-,Electric Bass,31
+F3,F,Electric Bass,32
+F2,F,Electric Bass,33
+F3,F,Electric Bass,34
+E-3,E-,Electric Bass,35
+D3,D,Electric Bass,36
+C3,C,Electric Bass,37
+B-2,B-,Electric Bass,38
+A2,A,Electric Bass,39
+B-2,B-,Electric Bass,40
+F2,F,Electric Bass,41
+B-2,B-,Electric Bass,42
+B-2,B-,Electric Bass,43
+B-2,B-,Electric Bass,44
+D3,D,Electric Bass,45
+E-3,E-,Electric Bass,46
+E-3,E-,Electric Bass,47
+E-3,E-,Electric Bass,48
+E-3,E-,Electric Bass,49
+E-3,E-,Electric Bass,50
+E-3,E-,Electric Bass,51
+C3,C,Electric Bass,52
+F3,F,Electric Bass,53
+F2,F,Electric Bass,54
+F2,F,Electric Bass,55
+B-2,B-,Electric Bass,56
+B-2,B-,Electric Bass,57
+E-3,E-,Electric Bass,58
+F3,F,Electric Bass,59
+F#2,F#,Electric Bass,60
+G2,G,Electric Bass,61
+A2,A,Electric Bass,62
+B-2,B-,Electric Bass,63
+B-2,B-,Electric Bass,64
+E-2,E-,Electric Bass,65
+F2,F,Electric Bass,66
+F3,F,Electric Bass,67
+F2,F,Electric Bass,68
+F2,F,Electric Bass,69
+B-2,B-,Electric Bass,70
+F4,F,Horn,0
+F4,F,Horn,1
+F4,F,Horn,2
+B-4,B-,Horn,3
+B-4,B-,Horn,4
+A4,A,Horn,5
+A4,A,Horn,6
+F4,F,Horn,7
+F4,F,Horn,8
+F4,F,Horn,9
+C5,C,Horn,10
+C5,C,Horn,11
+B-4,B-,Horn,12
+B-4,B-,Horn,13
+D5,D,Horn,14
+D5,D,Horn,15
+C5,C,Horn,16
+C5,C,Horn,17
+C5,C,Horn,18
+B-4,B-,Horn,19
+A4,A,Horn,20
+G4,G,Horn,21
+E4,E,Horn,22
+F4,F,Horn,23
+A4,A,Horn,24
+A4,A,Horn,25
+A4,A,Horn,26
+A4,A,Horn,27
+B-4,B-,Horn,28
+A4,A,Horn,29
+G4,G,Horn,30
+F4,F,Horn,31
+F4,F,Horn,32
+F4,F,Horn,33
+A4,A,Horn,34
+A4,A,Horn,35
+A4,A,Horn,36
+A4,A,Horn,37
+B-4,B-,Horn,38
+C5,C,Horn,39
+D5,D,Horn,40
+C5,C,Horn,41
+B-4,B-,Horn,42
+A4,A,Horn,43
+F4,F,Horn,44
+F4,F,Horn,45
+F4,F,Horn,46
+B-4,B-,Horn,47
+G#4,G#,Horn,48
+G4,G,Horn,49
+G4,G,Horn,50
+G4,G,Horn,51
+G4,G,Horn,52
+G4,G,Horn,53
+C5,C,Horn,54
+B-4,B-,Horn,55
+A4,A,Horn,56
+A4,A,Horn,57
+D5,D,Horn,58
+D5,D,Horn,59
+E-5,E-,Horn,60
+C5,C,Horn,61
+B-4,B-,Horn,62
+A4,A,Horn,63
+B-4,B-,Horn,64
+C5,C,Horn,65
+D5,D,Horn,66
+D5,D,Horn,67
+E-5,E-,Horn,68
+C5,C,Horn,69
+B-4,B-,Horn,70
+B-4,B-,Horn,71
+B-4,B-,Horn,72
+A4,A,Horn,73
+G4,G,Horn,74
+A4,A,Horn,75
+B-4,B-,Horn,76
+F4,F,Whistle,0
+F4,F,Whistle,1
+F4,F,Whistle,2
+B-4,B-,Whistle,3
+B-4,B-,Whistle,4
+A4,A,Whistle,5
+A4,A,Whistle,6
+F4,F,Whistle,7
+F4,F,Whistle,8
+F4,F,Whistle,9
+C5,C,Whistle,10
+C5,C,Whistle,11
+B-4,B-,Whistle,12
+B-4,B-,Whistle,13
+D5,D,Whistle,14
+D5,D,Whistle,15
+C5,C,Whistle,16
+C5,C,Whistle,17
+C5,C,Whistle,18
+B-4,B-,Whistle,19
+A4,A,Whistle,20
+G4,G,Whistle,21
+E4,E,Whistle,22
+F4,F,Whistle,23
+A4,A,Whistle,24
+A4,A,Whistle,25
+A4,A,Whistle,26
+A4,A,Whistle,27
+B-4,B-,Whistle,28
+A4,A,Whistle,29
+G4,G,Whistle,30
+F4,F,Whistle,31
+F4,F,Whistle,32
+F4,F,Whistle,33
+A4,A,Whistle,34
+A4,A,Whistle,35
+A4,A,Whistle,36
+A4,A,Whistle,37
+B-4,B-,Whistle,38
+C5,C,Whistle,39
+D5,D,Whistle,40
+C5,C,Whistle,41
+B-4,B-,Whistle,42
+A4,A,Whistle,43
+F4,F,Whistle,44
+F4,F,Whistle,45
+F4,F,Whistle,46
+B-4,B-,Whistle,47
+G#4,G#,Whistle,48
+G4,G,Whistle,49
+G4,G,Whistle,50
+G4,G,Whistle,51
+G4,G,Whistle,52
+G4,G,Whistle,53
+C5,C,Whistle,54
+B-4,B-,Whistle,55
+A4,A,Whistle,56
+A4,A,Whistle,57
+D5,D,Whistle,58
+D5,D,Whistle,59
+E-5,E-,Whistle,60
+C5,C,Whistle,61
+B-4,B-,Whistle,62
+A4,A,Whistle,63
+B-4,B-,Whistle,64
+C5,C,Whistle,65
+D5,D,Whistle,66
+D5,D,Whistle,67
+E-5,E-,Whistle,68
+C5,C,Whistle,69
+B-4,B-,Whistle,70
+B-4,B-,Whistle,71
+B-4,B-,Whistle,72
+A4,A,Whistle,73
+G4,G,Whistle,74
+A4,A,Whistle,75
+B-4,B-,Whistle,76
+A2,A,Reed Organ,0
+A2,A,Reed Organ,1
+A2,A,Reed Organ,2
+G3,G,Reed Organ,3
+G2,G,Reed Organ,4
+C3,C,Reed Organ,5
+B-2,B-,Reed Organ,6
+B-3,B-,Reed Organ,7
+G3,G,Reed Organ,8
+C3,C,Reed Organ,9
+F2,F,Reed Organ,10
+F3,F,Reed Organ,11
+F2,F,Reed Organ,12
+F2,F,Reed Organ,13
+F3,F,Reed Organ,14
+F2,F,Reed Organ,15
+F2,F,Reed Organ,16
+B-2,B-,Reed Organ,17
+F3,F,Reed Organ,18
+F2,F,Reed Organ,19
+F3,F,Reed Organ,20
+F3,F,Reed Organ,21
+A2,A,Reed Organ,22
+B-2,B-,Reed Organ,23
+D3,D,Reed Organ,24
+E-3,E-,Reed Organ,25
+E-3,E-,Reed Organ,26
+E-3,E-,Reed Organ,27
+E-3,E-,Reed Organ,28
+E-3,E-,Reed Organ,29
+E-3,E-,Reed Organ,30
+C3,C,Reed Organ,31
+F3,F,Reed Organ,32
+F3,F,Reed Organ,33
+F3,F,Reed Organ,34
+B-2,B-,Reed Organ,35
+B-3,B-,Reed Organ,36
+B-3,B-,Reed Organ,37
+E-3,E-,Reed Organ,38
+B-3,B-,Reed Organ,39
+G3,G,Reed Organ,40
+F3,F,Reed Organ,41
+F#3,F#,Reed Organ,42
+G3,G,Reed Organ,43
+A3,A,Reed Organ,44
+B-3,B-,Reed Organ,45
+B-2,B-,Reed Organ,46
+B-2,B-,Reed Organ,47

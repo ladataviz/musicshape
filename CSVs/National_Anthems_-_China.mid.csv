@@ -1,0 +1,299 @@
+NoteOctave,Note,Instrument,Position
+D4,D,Koto,0
+G4,G,Koto,1
+G4,G,Koto,2
+G4,G,Koto,3
+G4,G,Koto,4
+D4,D,Koto,5
+E4,E,Koto,6
+F#4,F#,Koto,7
+G4,G,Koto,8
+G4,G,Koto,9
+B4,B,Koto,10
+G4,G,Koto,11
+A4,A,Koto,12
+B4,B,Koto,13
+D5,D,Koto,14
+D5,D,Koto,15
+B4,B,Koto,16
+B4,B,Koto,17
+G4,G,Koto,18
+B4,B,Koto,19
+D5,D,Koto,20
+B4,B,Koto,21
+A4,A,Koto,22
+A4,A,Koto,23
+E5,E,Koto,24
+D5,D,Koto,25
+A4,A,Koto,26
+B4,B,Koto,27
+D5,D,Koto,28
+B4,B,Koto,29
+D5,D,Koto,30
+B4,B,Koto,31
+A4,A,Koto,32
+B4,B,Koto,33
+G4,G,Koto,34
+B4,B,Koto,35
+D4,D,Koto,36
+E4,E,Koto,37
+G4,G,Koto,38
+G4,G,Koto,39
+B4,B,Koto,40
+B4,B,Koto,41
+D5,D,Koto,42
+D5,D,Koto,43
+A4,A,Koto,44
+A4,A,Koto,45
+A4,A,Koto,46
+E4,E,Koto,47
+A4,A,Koto,48
+D4,D,Koto,49
+G4,G,Koto,50
+G4,G,Koto,51
+B4,B,Koto,52
+B4,B,Koto,53
+D5,D,Koto,54
+G4,G,Koto,55
+B4,B,Koto,56
+D5,D,Koto,57
+D5,D,Koto,58
+E5,E,Koto,59
+D5,D,Koto,60
+B4,B,Koto,61
+G4,G,Koto,62
+D5,D,Koto,63
+D5,D,Koto,64
+D5,D,Koto,65
+B4,B,Koto,66
+G4,G,Koto,67
+D4,D,Koto,68
+G4,G,Koto,69
+B4,B,Koto,70
+G4,G,Koto,71
+D5,D,Koto,72
+D5,D,Koto,73
+D5,D,Koto,74
+B4,B,Koto,75
+G4,G,Koto,76
+D4,D,Koto,77
+G4,G,Koto,78
+D4,D,Koto,79
+G4,G,Koto,80
+D4,D,Koto,81
+G4,G,Koto,82
+G4,G,Koto,83
+G2,G,Flute,0
+G2,G,Flute,1
+G2,G,Flute,2
+G2,G,Flute,3
+G2,G,Flute,4
+D2,D,Flute,5
+D2,D,Flute,6
+D2,D,Flute,7
+G2,G,Flute,8
+G2,G,Flute,9
+D2,D,Flute,10
+G2,G,Flute,11
+B2,B,Flute,12
+B2,B,Flute,13
+B2,B,Flute,14
+D3,D,Flute,15
+G3,G,Flute,16
+G3,G,Flute,17
+G2,G,Flute,18
+G2,G,Flute,19
+G2,G,Flute,20
+D2,D,Flute,21
+C2,C,Flute,22
+C3,C,Flute,23
+B2,B,Flute,24
+D3,D,Flute,25
+G3,G,Flute,26
+G2,G,Flute,27
+G2,G,Flute,28
+G2,G,Flute,29
+G3,G,Flute,30
+F#3,F#,Flute,31
+E3,E,Flute,32
+F#3,F#,Flute,33
+G3,G,Flute,34
+F#3,F#,Flute,35
+B2,B,Flute,36
+B2,B,Flute,37
+G2,G,Flute,38
+G2,G,Flute,39
+D3,D,Flute,40
+G3,G,Flute,41
+G3,G,Flute,42
+G3,G,Flute,43
+G3,G,Flute,44
+G3,G,Flute,45
+D3,D,Flute,46
+D3,D,Flute,47
+D3,D,Flute,48
+G2,G,Flute,49
+G2,G,Flute,50
+D3,D,Flute,51
+D3,D,Flute,52
+G3,G,Flute,53
+G2,G,Flute,54
+G2,G,Flute,55
+G2,G,Flute,56
+G2,G,Flute,57
+D4,D,Kalimba,0
+G4,G,Kalimba,1
+G4,G,Kalimba,2
+G4,G,Kalimba,3
+G4,G,Kalimba,4
+D4,D,Kalimba,5
+E4,E,Kalimba,6
+F#4,F#,Kalimba,7
+G4,G,Kalimba,8
+G4,G,Kalimba,9
+B4,B,Kalimba,10
+G4,G,Kalimba,11
+A4,A,Kalimba,12
+B4,B,Kalimba,13
+D5,D,Kalimba,14
+D5,D,Kalimba,15
+B4,B,Kalimba,16
+B4,B,Kalimba,17
+G4,G,Kalimba,18
+B4,B,Kalimba,19
+D5,D,Kalimba,20
+B4,B,Kalimba,21
+A4,A,Kalimba,22
+A4,A,Kalimba,23
+E5,E,Kalimba,24
+D5,D,Kalimba,25
+A4,A,Kalimba,26
+B4,B,Kalimba,27
+D5,D,Kalimba,28
+B4,B,Kalimba,29
+D5,D,Kalimba,30
+B4,B,Kalimba,31
+A4,A,Kalimba,32
+B4,B,Kalimba,33
+G4,G,Kalimba,34
+B4,B,Kalimba,35
+D4,D,Kalimba,36
+E4,E,Kalimba,37
+G4,G,Kalimba,38
+G4,G,Kalimba,39
+B4,B,Kalimba,40
+B4,B,Kalimba,41
+D5,D,Kalimba,42
+D5,D,Kalimba,43
+A4,A,Kalimba,44
+A4,A,Kalimba,45
+A4,A,Kalimba,46
+E4,E,Kalimba,47
+A4,A,Kalimba,48
+D4,D,Kalimba,49
+G4,G,Kalimba,50
+G4,G,Kalimba,51
+B4,B,Kalimba,52
+B4,B,Kalimba,53
+D5,D,Kalimba,54
+G4,G,Kalimba,55
+B4,B,Kalimba,56
+D5,D,Kalimba,57
+D5,D,Kalimba,58
+E5,E,Kalimba,59
+D5,D,Kalimba,60
+B4,B,Kalimba,61
+G4,G,Kalimba,62
+D5,D,Kalimba,63
+D5,D,Kalimba,64
+D5,D,Kalimba,65
+B4,B,Kalimba,66
+G4,G,Kalimba,67
+D4,D,Kalimba,68
+G4,G,Kalimba,69
+B4,B,Kalimba,70
+G4,G,Kalimba,71
+D5,D,Kalimba,72
+D5,D,Kalimba,73
+D5,D,Kalimba,74
+B4,B,Kalimba,75
+G4,G,Kalimba,76
+D4,D,Kalimba,77
+G4,G,Kalimba,78
+D4,D,Kalimba,79
+G4,G,Kalimba,80
+D4,D,Kalimba,81
+G4,G,Kalimba,82
+G4,G,Kalimba,83
+G4,G,Electric Organ,0
+B4,B,Electric Organ,1
+G4,G,Electric Organ,2
+E5,E,Electric Organ,3
+D5,D,Electric Organ,4
+B4,B,Electric Organ,5
+G4,G,Electric Organ,6
+B4,B,Electric Organ,7
+G4,G,Electric Organ,8
+G4,G,Electric Organ,9
+D4,D,Electric Organ,10
+D4,D,Electric Organ,11
+D4,D,Electric Organ,12
+D4,D,Electric Organ,13
+D4,D,Electric Organ,14
+D4,D,Electric Organ,15
+D4,D,Electric Organ,16
+G4,G,Electric Organ,17
+D4,D,Electric Organ,18
+G4,G,Electric Organ,19
+G4,G,Electric Organ,20
+D4,D,Electric Organ,21
+E4,E,Electric Organ,22
+F#4,F#,Electric Organ,23
+B4,B,Electric Organ,24
+G4,G,Electric Organ,25
+A4,A,Electric Organ,26
+B4,B,Electric Organ,27
+B4,B,Electric Organ,28
+B4,B,Electric Organ,29
+G4,G,Electric Organ,30
+B4,B,Electric Organ,31
+D5,D,Electric Organ,32
+B4,B,Electric Organ,33
+D5,D,Electric Organ,34
+B4,B,Electric Organ,35
+A4,A,Electric Organ,36
+B4,B,Electric Organ,37
+G4,G,Electric Organ,38
+B4,B,Electric Organ,39
+D4,D,Electric Organ,40
+E4,E,Electric Organ,41
+G4,G,Electric Organ,42
+G4,G,Electric Organ,43
+B4,B,Electric Organ,44
+B4,B,Electric Organ,45
+D5,D,Electric Organ,46
+D5,D,Electric Organ,47
+A4,A,Electric Organ,48
+A4,A,Electric Organ,49
+A4,A,Electric Organ,50
+E4,E,Electric Organ,51
+A4,A,Electric Organ,52
+D4,D,Electric Organ,53
+G4,G,Electric Organ,54
+B4,B,Electric Organ,55
+D5,D,Electric Organ,56
+D5,D,Electric Organ,57
+E5,E,Electric Organ,58
+G4,G,Electric Organ,59
+D5,D,Electric Organ,60
+B4,B,Electric Organ,61
+G4,G,Electric Organ,62
+G4,G,Electric Organ,63
+D4,D,Electric Organ,64
+G4,G,Electric Organ,65
+B4,B,Electric Organ,66
+G4,G,Electric Organ,67
+G4,G,Electric Organ,68
+G4,G,Electric Organ,69
+G4,G,Electric Organ,70
+G4,G,Electric Organ,71

@@ -1,0 +1,413 @@
+NoteOctave,Note,Instrument,Position
+D5,D,Trumpet,0
+B4,B,Trumpet,1
+G4,G,Trumpet,2
+A4,A,Trumpet,3
+B4,B,Trumpet,4
+E5,E,Trumpet,5
+D5,D,Trumpet,6
+A4,A,Trumpet,7
+B4,B,Trumpet,8
+D5,D,Trumpet,9
+C5,C,Trumpet,10
+B4,B,Trumpet,11
+C5,C,Trumpet,12
+B4,B,Trumpet,13
+D5,D,Trumpet,14
+E5,E,Trumpet,15
+D5,D,Trumpet,16
+B4,B,Trumpet,17
+A4,A,Trumpet,18
+G4,G,Trumpet,19
+G4,G,Trumpet,20
+D5,D,Trumpet,21
+B4,B,Trumpet,22
+G4,G,Trumpet,23
+A4,A,Trumpet,24
+B4,B,Trumpet,25
+E5,E,Trumpet,26
+D5,D,Trumpet,27
+A4,A,Trumpet,28
+B4,B,Trumpet,29
+D5,D,Trumpet,30
+C5,C,Trumpet,31
+B4,B,Trumpet,32
+C5,C,Trumpet,33
+B4,B,Trumpet,34
+D5,D,Trumpet,35
+E5,E,Trumpet,36
+D5,D,Trumpet,37
+B4,B,Trumpet,38
+A4,A,Trumpet,39
+G4,G,Trumpet,40
+G4,G,Trumpet,41
+C5,C,Trumpet,42
+A4,A,Trumpet,43
+F4,F,Trumpet,44
+B4,B,Trumpet,45
+B4,B,Trumpet,46
+C5,C,Trumpet,47
+B4,B,Trumpet,48
+A4,A,Trumpet,49
+G4,G,Trumpet,50
+B4,B,Trumpet,51
+A4,A,Trumpet,52
+G4,G,Trumpet,53
+C5,C,Trumpet,54
+C5,C,Trumpet,55
+A4,A,Trumpet,56
+B4,B,Trumpet,57
+A4,A,Trumpet,58
+G4,G,Trumpet,59
+F4,F,Trumpet,60
+A4,A,Trumpet,61
+G4,G,Trumpet,62
+D5,D,Trumpet,63
+B4,B,Trumpet,64
+G4,G,Trumpet,65
+B4,B,Trumpet,66
+A4,A,Trumpet,67
+G4,G,Trumpet,68
+C5,C,Trumpet,69
+A4,A,Trumpet,70
+B4,B,Trumpet,71
+B4,B,Trumpet,72
+C5,C,Trumpet,73
+B4,B,Trumpet,74
+A4,A,Trumpet,75
+A4,A,Trumpet,76
+A4,A,Trumpet,77
+G4,G,Trumpet,78
+F#4,F#,Trumpet,79
+E4,E,Trumpet,80
+D4,D,Trumpet,81
+D4,D,Trumpet,82
+G5,G,Trumpet,83
+G5,G,Trumpet,84
+G5,G,Trumpet,85
+G5,G,Trumpet,86
+G5,G,Trumpet,87
+G5,G,Trumpet,88
+D4,D,Horn,0
+G4,G,Horn,1
+B4,B,Horn,2
+D4,D,Horn,3
+B3,B,Horn,4
+A3,A,Horn,5
+B3,B,Horn,6
+A4,A,Horn,7
+E4,E,Horn,8
+F#4,F#,Horn,9
+G4,G,Horn,10
+B3,B,Horn,11
+C5,C,Horn,12
+B4,B,Horn,13
+D4,D,Horn,14
+G4,G,Horn,15
+B4,B,Horn,16
+G4,G,Horn,17
+E4,E,Horn,18
+A3,A,Horn,19
+B3,B,Horn,20
+A4,A,Horn,21
+E4,E,Horn,22
+F#4,F#,Horn,23
+G4,G,Horn,24
+B3,B,Horn,25
+G4,G,Horn,26
+D4,D,Horn,27
+D4,D,Horn,28
+G4,G,Horn,29
+D4,D,Horn,30
+C4,C,Horn,31
+A3,A,Horn,32
+D4,D,Horn,33
+C4,C,Horn,34
+E4,E,Horn,35
+B3,B,Horn,36
+E4,E,Horn,37
+D4,D,Horn,38
+B3,B,Horn,39
+E4,E,Horn,40
+E4,E,Horn,41
+A4,A,Horn,42
+A3,A,Horn,43
+D3,D,Horn,44
+D3,D,Horn,45
+G3,G,Bass Trombone,0
+F#3,F#,Bass Trombone,1
+E3,E,Bass Trombone,2
+C3,C,Bass Trombone,3
+D3,D,Bass Trombone,4
+D3,D,Bass Trombone,5
+G2,G,Bass Trombone,6
+G2,G,Bass Trombone,7
+A2,A,Bass Trombone,8
+B2,B,Bass Trombone,9
+G2,G,Bass Trombone,10
+C3,C,Bass Trombone,11
+E3,E,Bass Trombone,12
+D3,D,Bass Trombone,13
+G2,G,Bass Trombone,14
+G3,G,Bass Trombone,15
+F#3,F#,Bass Trombone,16
+E3,E,Bass Trombone,17
+C3,C,Bass Trombone,18
+D3,D,Bass Trombone,19
+D3,D,Bass Trombone,20
+G2,G,Bass Trombone,21
+G2,G,Bass Trombone,22
+A2,A,Bass Trombone,23
+B2,B,Bass Trombone,24
+G2,G,Bass Trombone,25
+C3,C,Bass Trombone,26
+G3,G,Bass Trombone,27
+D3,D,Bass Trombone,28
+G2,G,Bass Trombone,29
+A3,A,Bass Trombone,30
+F3,F,Bass Trombone,31
+D3,D,Bass Trombone,32
+D3,D,Bass Trombone,33
+E3,E,Bass Trombone,34
+A2,A,Bass Trombone,35
+E3,E,Bass Trombone,36
+G2,G,Bass Trombone,37
+A2,A,Bass Trombone,38
+B2,B,Bass Trombone,39
+A2,A,Bass Trombone,40
+E3,E,Bass Trombone,41
+D3,D,Bass Trombone,42
+C3,C,Bass Trombone,43
+B2,B,Bass Trombone,44
+E3,E,Bass Trombone,45
+A2,A,Bass Trombone,46
+G2,G,Bass Trombone,47
+A2,A,Bass Trombone,48
+B2,B,Bass Trombone,49
+G2,G,Bass Trombone,50
+C3,C,Bass Trombone,51
+D3,D,Bass Trombone,52
+G2,G,Bass Trombone,53
+G2,G,Bass Trombone,54
+G2,G,Bass Trombone,55
+G2,G,Bass Trombone,56
+G2,G,Bass Trombone,57
+G2,G,Bass Trombone,58
+G2,G,Bass Trombone,59
+G2,G,Bass Trombone,60
+G2,G,Bass Trombone,61
+G2,G,Bass Trombone,62
+G2,G,Bass Trombone,63
+G2,G,Bass Trombone,64
+G2,G,Bass Trombone,65
+G2,G,Bass Trombone,66
+G1,G,Tuba,0
+F#1,F#,Tuba,1
+E1,E,Tuba,2
+C2,C,Tuba,3
+D2,D,Tuba,4
+D2,D,Tuba,5
+G1,G,Tuba,6
+G1,G,Tuba,7
+A1,A,Tuba,8
+B1,B,Tuba,9
+G1,G,Tuba,10
+C2,C,Tuba,11
+G2,G,Tuba,12
+D2,D,Tuba,13
+G1,G,Tuba,14
+G1,G,Tuba,15
+F#1,F#,Tuba,16
+E1,E,Tuba,17
+C2,C,Tuba,18
+D2,D,Tuba,19
+D2,D,Tuba,20
+G1,G,Tuba,21
+G1,G,Tuba,22
+A1,A,Tuba,23
+B1,B,Tuba,24
+G1,G,Tuba,25
+C2,C,Tuba,26
+G2,G,Tuba,27
+D2,D,Tuba,28
+G1,G,Tuba,29
+A2,A,Tuba,30
+F2,F,Tuba,31
+D2,D,Tuba,32
+D2,D,Tuba,33
+E2,E,Tuba,34
+A1,A,Tuba,35
+E2,E,Tuba,36
+G1,G,Tuba,37
+A1,A,Tuba,38
+B1,B,Tuba,39
+A1,A,Tuba,40
+E2,E,Tuba,41
+D2,D,Tuba,42
+C2,C,Tuba,43
+B1,B,Tuba,44
+E2,E,Tuba,45
+A1,A,Tuba,46
+G1,G,Tuba,47
+A1,A,Tuba,48
+B1,B,Tuba,49
+G1,G,Tuba,50
+C2,C,Tuba,51
+D2,D,Tuba,52
+G1,G,Tuba,53
+G1,G,Tuba,54
+G1,G,Tuba,55
+G1,G,Tuba,56
+G1,G,Tuba,57
+G1,G,Tuba,58
+G1,G,Tuba,59
+G1,G,Tuba,60
+G1,G,Tuba,61
+G1,G,Tuba,62
+G1,G,Tuba,63
+G1,G,Tuba,64
+G1,G,Tuba,65
+G1,G,Tuba,66
+E5,E,StringInstrument,0
+E6,E,StringInstrument,1
+D5,D,StringInstrument,2
+D6,D,StringInstrument,3
+B4,B,StringInstrument,4
+B5,B,StringInstrument,5
+D5,D,StringInstrument,6
+D6,D,StringInstrument,7
+C5,C,StringInstrument,8
+G4,G,StringInstrument,9
+G5,G,StringInstrument,10
+E5,E,StringInstrument,11
+E6,E,StringInstrument,12
+B4,B,StringInstrument,13
+B5,B,StringInstrument,14
+D6,D,StringInstrument,15
+D5,D,StringInstrument,16
+G4,G,StringInstrument,17
+G5,G,StringInstrument,18
+G4,G,StringInstrument,19
+G5,G,StringInstrument,20
+F#4,F#,StringInstrument,21
+F#5,F#,StringInstrument,22
+E4,E,StringInstrument,23
+E5,E,StringInstrument,24
+G2,G,StringInstrument,0
+F#2,F#,StringInstrument,1
+E2,E,StringInstrument,2
+C2,C,StringInstrument,3
+D2,D,StringInstrument,4
+D2,D,StringInstrument,5
+G1,G,StringInstrument,6
+G1,G,StringInstrument,7
+A1,A,StringInstrument,8
+B1,B,StringInstrument,9
+G1,G,StringInstrument,10
+C2,C,StringInstrument,11
+G2,G,StringInstrument,12
+D2,D,StringInstrument,13
+G1,G,StringInstrument,14
+G2,G,StringInstrument,15
+F#2,F#,StringInstrument,16
+E2,E,StringInstrument,17
+C2,C,StringInstrument,18
+D2,D,StringInstrument,19
+D2,D,StringInstrument,20
+G1,G,StringInstrument,21
+G1,G,StringInstrument,22
+A1,A,StringInstrument,23
+B1,B,StringInstrument,24
+G1,G,StringInstrument,25
+C2,C,StringInstrument,26
+G2,G,StringInstrument,27
+D2,D,StringInstrument,28
+G1,G,StringInstrument,29
+D2,D,StringInstrument,30
+C2,C,StringInstrument,31
+B1,B,StringInstrument,32
+E2,E,StringInstrument,33
+A1,A,StringInstrument,34
+G1,G,StringInstrument,35
+A1,A,StringInstrument,36
+B1,B,StringInstrument,37
+G1,G,StringInstrument,38
+C2,C,StringInstrument,39
+D2,D,StringInstrument,40
+G1,G,StringInstrument,41
+G1,G,StringInstrument,42
+G2,G,Timpani,0
+G2,G,Timpani,1
+G2,G,Timpani,2
+G2,G,Timpani,3
+G2,G,Timpani,4
+G2,G,Timpani,5
+G2,G,Timpani,6
+G2,G,Timpani,7
+G2,G,Timpani,8
+G2,G,Timpani,9
+G2,G,Timpani,10
+G2,G,Timpani,11
+G2,G,Timpani,12
+G2,G,Timpani,13
+G2,G,Timpani,14
+G2,G,Timpani,15
+G2,G,Timpani,16
+G2,G,Timpani,17
+G2,G,Timpani,18
+G2,G,Timpani,19
+G2,G,Timpani,20
+G2,G,Timpani,21
+G2,G,Timpani,22
+G2,G,Timpani,23
+G2,G,Timpani,24
+G2,G,Timpani,25
+G2,G,Timpani,26
+G2,G,Timpani,27
+G2,G,Timpani,28
+G2,G,Timpani,29
+G2,G,Timpani,30
+G2,G,Timpani,31
+G2,G,Timpani,32
+G2,G,Timpani,33
+G2,G,Timpani,34
+G2,G,Timpani,35
+G2,G,Timpani,36
+G2,G,Timpani,37
+G2,G,Timpani,38
+G2,G,Timpani,39
+G2,G,Timpani,40
+G2,G,Timpani,41
+G2,G,Timpani,42
+G2,G,Timpani,43
+G2,G,Timpani,44
+G2,G,Timpani,45
+G2,G,Timpani,46
+G2,G,Timpani,47
+G2,G,Timpani,48
+G2,G,Timpani,49
+G2,G,Timpani,50
+G2,G,Timpani,51
+G2,G,Timpani,52
+G2,G,Timpani,53
+G2,G,Timpani,54
+G2,G,Timpani,55
+G2,G,Timpani,56
+G2,G,Timpani,57
+G2,G,Timpani,58
+G2,G,Timpani,59
+G2,G,Timpani,60
+G2,G,Timpani,61
+G2,G,Timpani,62
+G2,G,Timpani,63
+G2,G,Timpani,64
+G2,G,Timpani,65
+G2,G,Timpani,66
+G2,G,Timpani,67
+G2,G,Timpani,68
+G2,G,Timpani,69
+G2,G,Timpani,70
+G2,G,Timpani,71
+G2,G,Timpani,72
+G2,G,Timpani,73
+G2,G,Timpani,74
